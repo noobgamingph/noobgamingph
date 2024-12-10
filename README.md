@@ -29,3 +29,8 @@
 ## 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noobgamingph&theme=radical)](https://git.io/streak-stats)
+
+
+## CREDITS
+
+<a href="https://github.com/mishmanners" target="blank">MishManners®™ AKA the Hackathon Queen®™</a> FOR THE REPOSITORY

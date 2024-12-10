@@ -21,6 +21,7 @@
 <a href="https://discord.gg/yadJY8Ez" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" alt="discord logo"/></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" alt="Epic Games logo"/></a> 
 <a href=" " target="blank"><img align="center" src="https://finevpn.org/wp-content/uploads/2024/02/ubisoft-connect-logo-logo.png" height="30" alt="Ubisoft Connect logo"/></a> 
+<a href=" " target="blank"><img align="center" src="https://cdn2.steamgriddb.com/logo_thumb/426106636e7e1e2790587b847c01e3a4.png" height="30" alt="Ubisoft Connect logo"/></a> 
 
 ## MY GITHUB STATS
 
